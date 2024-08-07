@@ -1,6 +1,5 @@
 /* eslint-disable react/no-unescaped-entities */
 import Particles from "@/components/magicui/particles";
-import { VelocityText } from "./velocityText";
 
 export const ParticleCard = () => {
   return (

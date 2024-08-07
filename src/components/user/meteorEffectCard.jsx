@@ -2,13 +2,11 @@
 
 import Meteors from "@/components/magicui/meteors";
 import {
-  PhoneIcon,
   FacebookIcon,
   Linkedin,
   InstagramIcon,
   GithubIcon,
 } from "lucide-react";
-import { classes } from "../../styles/socail.module.css";
 
 export function MeteorEffectCard() {
   return (
