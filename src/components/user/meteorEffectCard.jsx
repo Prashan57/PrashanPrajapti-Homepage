@@ -17,8 +17,8 @@ export function MeteorEffectCard() {
       <span className="pointer-events-none whitespace-pre-wrap bg-gradient-to-b from-black to-gray-300/80 bg-clip-text text-center text-7xl font-semibold leading-none text-transparent dark:from-white dark:to-slate-900/10 lg:my-10 my-5">
         Contact Me
       </span>
-      <div className="flex flex-row items-center justify-between ">
-        <div className="flex flex-row justify-evenly">
+      <div className="flex flex-row items-center justify-between gap-4">
+        <div className="flex flex-row justify-evenly ">
           <button
             className="flex flex-row"
             onClick={(e) => {

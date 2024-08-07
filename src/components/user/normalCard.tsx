@@ -29,13 +29,11 @@ export default function NormalCard() {
               "https://github.com/Prashan57/Envision-Nepal";
           }}
         />
-        <button className="z-10">Hellooooo</button>
       </MagicCard>
       <MagicCard
         className="cursor-pointer flex-col items-center justify-center shadow-2xl whitespace-nowrap text-4xl lg:mx-2"
         gradientColor={"#D9D9D955"}
       >
-        Work 2
         <Image
           src={Image2}
           alt="EdEarn"
